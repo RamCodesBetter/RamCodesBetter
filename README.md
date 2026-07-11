@@ -1,18 +1,15 @@
-- 👋 Hi, I’m Ram Shreyas Naik Sabavat
-- 👀 I’m interested in coding, soccer, and fortnite.
-- 🌱 I’m currently learning SQL, JAVA, PY (FastAPI).
-- 💞️ I’m looking to collaborate on FTC-17595.
-- 📫 How to reach me:
-  Gmail:
-    ramsabavat2012@gmail.com
-  Outlook:
-    ramsabavat2012@outlook.com
-  Phone:
-    +1 (425)-340-5242
-- 😄 Pronouns: He/Him/His.
-- ⚡Fun Fact: I love gaming.
+### 👋 Hi, I'm Ram Shreyas Naik Sabavat
+
+9th-grader building **SidewalkPilot** — a self-driving RC car that follows sidewalks
+with a convolutional neural network, LiDAR emergency braking, GPS navigation, and a
+live LED dashboard. Raspberry Pi 5 + Jetson Orin Nano, trained in PyTorch, deployed
+in ONNX — all from scratch.
+
+- 🛹 **Current project:** [SidewalkPilot](https://github.com/RamCodesBetter/SidewalkPilot) · [Docs](https://ramcodesbetter.github.io/SidewalkPilot/) · [Models](https://huggingface.co/ram-shreyas-naik-sabavat) · [YouTube](https://www.youtube.com/@SidewalkPilot)
+- 📫 **Reach me:** [ramsabavat2012@gmail.com](mailto:ramsabavat2012@gmail.com)
+- 😄 **Pronouns:** He/Him/His
 
 <!---
-RamCodesBetter/RamCodesBetter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+RamCodesBetter/RamCodesBetter is a ✨ special ✨ repository because its README.md
+appears on your GitHub profile. Click Preview to see your changes.
 --->
