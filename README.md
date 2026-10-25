@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ram Shreyas Naik Sabavat
 
-9th-grader building **SidewalkPilot** — a self-driving RC car that follows sidewalks
+I'm a 9th-grader building **SidewalkPilot** — a self-driving RC car that follows sidewalks
 with a convolutional neural network, LiDAR emergency braking, GPS navigation, and a
 live LED dashboard. Raspberry Pi 5 + Jetson Orin Nano, trained in PyTorch, deployed
 in ONNX — all from scratch.
